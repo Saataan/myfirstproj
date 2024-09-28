@@ -1,0 +1,10 @@
+git-tutoral.notion.site
+
+git init ==> for first time use enetering terminal
+git add <file>
+git rm --cached <file>
+git commit -m "message"
+git log
+git checkout ==> undo prev commt but keeps prev commi
+main branch rename ==> git branch -M <file>
+git commit --amend -m <messg>
